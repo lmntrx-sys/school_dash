@@ -8,7 +8,7 @@
 //                              update a clock 
 
 // Calculate grade
-'use strict';
+
 
 let students = []
 
