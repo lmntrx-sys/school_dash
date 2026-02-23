@@ -9,7 +9,7 @@
 
 // Calculate grade
 
-
+'use strict';
 let students = []
 
 // DOM elements
